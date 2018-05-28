@@ -10,12 +10,16 @@ In this paper we introduce a natural image prior that directly represents a Gaus
 
 
 <img src="http://home.inf.unibe.ch/~bigdeli/img/DMSPrior.jpg" alt="Drawing" style="height: 500px;" align="center"/>
-See [manuscript](https://arxiv.org/pdf/1709.03749) for details of the method.
 
-This code runs in Matlab and you need to install
-[TensorFlow](http://www.tensorflow.org) or
+See [manuscript](https://papers.nips.cc/paper/6678-deep-mean-shift-priors-for-image-restoration.pdf) for details of the method.
+
+This code runs in Python and you need to install [TensorFlow](http://www.tensorflow.org).
 ### Contents:
+
 [demo_DMSP.py](https://github.com/siavashBigdeli/DMSP-tensorflow/blob/master/demo_DMSP.py): Includes an example for non-blind and noise-blind image deblurring.
+
 [DMSPDeblur.py](https://github.com/siavashBigdeli/DMSP-tensorflow/blob/master/DMSPDeblur.py): Implements MAP function for non-blind image deblurring. Use Python's help function to learn about the input and output arguments.
+
 [DAE_model](https://github.com/siavashBigdeli/DMSP-tensorflow/tree/master/DAE_model.py): Includes DAE model and implementation.
+
 [data](https://github.com/siavashBigdeli/DMSP-tensorflow/tree/master/data): Includes sample image(s).
