@@ -1,4 +1,4 @@
-Tendorflow implementation (See [DMSP page](https://github.com/siavashBigdeli/DMSP) for Caffe and MatCovNet implementations)
+TensorFlow implementation (See [DMSP page](https://github.com/siavashBigdeli/DMSP) for Caffe and MatCovNet implementations)
 ## Deep Mean-Shift Priors for Image Restoration ([project page](http://home.inf.unibe.ch/~bigdeli/DMSPrior.html))
 
 Siavash Arjomand Bigdeli, Meiguang Jin, Paolo Favaro, Matthias Zwicker
