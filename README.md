@@ -23,3 +23,6 @@ This code runs in Python and you need to install [TensorFlow](http://www.tensorf
 [DAE_model](https://github.com/siavashBigdeli/DMSP-tensorflow/tree/master/DAE_model.py): Includes DAE model and implementation.
 
 [data](https://github.com/siavashBigdeli/DMSP-tensorflow/tree/master/data): Includes sample image(s).
+
+### License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
